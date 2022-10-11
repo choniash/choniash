@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="your-Вконтакте-URL">
-    <img src="https://img.shields.io/badge/Вконтактеblue?logo=VK&logoColor=white" alt="Вконтакте Badge"/>
+    <img src="https://img.shields.io/badge/Вконтакте-blue?logo=VK&logoColor=white" alt="vk Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
