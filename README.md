@@ -15,7 +15,7 @@
 <div id="heythere" align="center">
   <h1>
   Вечно молодой, вечно пьяный
-  <img src="https://media.giphy.com/media/9Dk1ba2smFg2KASTcz/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/9Dk1ba2smFg2KASTcz/giphy.gif" width="90px"/>
 </h1>
 </div>
 
