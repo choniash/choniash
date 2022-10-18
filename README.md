@@ -1,5 +1,5 @@
 <div id="header" align="center">
-     <img src="https://media.giphy.com/media/J6KcCACi5S8gw/giphy.gif" width="1000"/>
+     <img src="https://media.giphy.com/media/3o6fIU6zV46IhunB9S/giphy.gif" width="1000"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/dima_chonia">
