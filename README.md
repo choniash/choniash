@@ -14,8 +14,8 @@
 </div>
 <div id="heythere" align="center">
   <h1>
-  Приветик
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Вечно молодой, вечно пьяный
+  <img src="https://media.giphy.com/media/9Dk1ba2smFg2KASTcz/giphy.gif" width="30px"/>
 </h1>
 </div>
 
