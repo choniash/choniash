@@ -24,3 +24,8 @@
 
 ### 👨‍🏫 About Me ^_^ : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 
+- 🖤: ничего особенного
+
+- ⚫: прям вообще ничего
+
+- ⬛: разве что чуть-чуть
