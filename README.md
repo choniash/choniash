@@ -22,5 +22,5 @@
   <img src="https://media.giphy.com/media/l41lGnxllmN3YqOyI/giphy.gif" width="400" height="300"/>
 </div>
 
-### 👨‍🏫 About Me ^_^ :
+### 👨‍🏫 About Me ^_^ : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
 
