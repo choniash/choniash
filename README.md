@@ -42,6 +42,6 @@
 </div>
 
 ---
-### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choniash&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=choniash&theme=blue-green)](https://git.io/streak-stats)
 
 
